@@ -1,5 +1,8 @@
 # Flag Forge
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Feature flags that live in your repo.** No SaaS dashboard, no runtime dependency, no vendor lock-in. Just a YAML file in version control with a powerful evaluation engine.
 
 ```
